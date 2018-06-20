@@ -8,6 +8,6 @@ $(document).ready(function() {
         $(this).css('display','none')
     });
 
-
+    // $('li').css('background', 'value');
 
 });
