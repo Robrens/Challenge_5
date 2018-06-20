@@ -1,3 +1,7 @@
-.container-fluid {
+.whiteOnBlack {
     background-color: black;
+    color: white;
+}
+nav li{
+    border-bottom: solid 1px rgb(54, 54, 54);
 }
